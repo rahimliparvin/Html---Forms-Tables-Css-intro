@@ -1,0 +1,28 @@
+
+div h1{
+    margin-top: 30px;
+    margin-left: 500px;
+}
+html{
+  background-color:lightgrey;
+}
+html body{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 1300px;
+    height: 325px;
+    background-color: white;
+}
+div h3{
+    margin-left: 30px;
+}
+div p{
+    margin-left: 30px;
+}
+div a{
+    margin-left: 30px;
+}
+div img{
+    margin-left: 30px;
+}
+

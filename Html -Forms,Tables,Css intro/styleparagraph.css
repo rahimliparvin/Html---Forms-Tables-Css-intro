@@ -1,0 +1,46 @@
+div h1{
+    padding-top:55px;
+    height: 110px;
+    text-align: center;
+    background-color:rgb(180, 82, 13);
+}
+
+div {
+    background-color:rgb(226, 165, 50);
+    padding-bottom: 40px;
+}
+div .button1{
+margin-left: 550px;
+color: darkgreen;
+background-color:rgb(226, 165, 50);
+border: none;
+font-weight: bold;
+}
+div h3{
+    font-weight: bold;
+}
+div .button2{
+    color: darkgreen;
+    background-color:rgb(226, 165, 50);
+    border: none;
+    font-weight: bold;
+}
+div .button3{
+    color: darkgreen;
+    background-color: rgb(226, 165, 50);
+    border: none;
+    font-weight: bold;
+}
+div .button4{
+color: darkgreen;
+background-color: rgb(226, 165, 50);
+border: none;
+font-weight: bold;
+}
+div .parag{
+    color:rgb(116, 6, 6);
+    font-weight: bold;
+}
+div .parag3{
+    font-weight: bold;
+}
